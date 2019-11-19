@@ -4,7 +4,7 @@
 target 'RWPickFlavor' do
   use_frameworks!
 
-  pod 'Alamofire', '~> 5.0.0-rc.3'
-  pod 'MBProgressHUD', '~> 1.1.0', :modular_headers => true
+  pod 'Alamofire', '5.0.0-rc.3'
+  pod 'MBProgressHUD', '1.1.0', :modular_headers => true
 
 end
